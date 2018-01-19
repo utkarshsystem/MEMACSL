@@ -1,0 +1,6 @@
+2008-2009 Steps
+1. hexaToBinary(String hexaNumber) return binary (6F=0110 1111) 
+2. convertToPrefix(String binary) return prefixCode (Refer problem set)
+
+
+
