@@ -10,7 +10,6 @@ public class ACSLTrainingProgram {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("I'm Kelvin");
-		System.out.println("I'm Kelvin");
 	}
 
 }
